@@ -1,3 +1,3 @@
-module github.com/MartineSinding/is105/sem03
+module github.com/MartineSinding/is105sem03
 
 go 1.19
